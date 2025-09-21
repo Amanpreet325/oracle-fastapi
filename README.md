@@ -1,6 +1,10 @@
 # Oracle Health FHIR API Integration
 
 A FastAPI backend that integrates with Oracle Health FHIR APIs to fetch patient data, with a simple HTML frontend for testing.
+<img width="1607" height="612" alt="image" src="https://github.com/user-attachments/assets/57050e5e-6b87-4eae-8b72-4a88b8dc2084" />
+
+<img width="1412" height="685" alt="image" src="https://github.com/user-attachments/assets/c45c95cd-8e60-4b6b-8004-e5942a88f490" />
+
 
 ## Features
 
